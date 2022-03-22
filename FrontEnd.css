@@ -317,3 +317,12 @@ nav {
   color: gray;
 }
 /* end */
+
+@media (max-width: 580px) {
+  .none-sm {
+    display: none;
+  }
+  .sm-sm {
+    width: 90%;
+  }
+}
