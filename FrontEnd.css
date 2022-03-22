@@ -1,0 +1,319 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  padding: 0px;
+  margin: 0%;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: rgb(247, 247, 247);
+}
+.col {
+  color: rgb(103, 118, 207);
+}
+
+header {
+  background-color: rgb(247, 247, 247);
+  width: 100%;
+  z-index: 999;
+  align-items: center;
+  background-color: white;
+  border-radius: 15px;
+}
+nav {
+  display: inline-block;
+}
+.logo {
+  font-size: 2em;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-decoration: none;
+  padding-right: 30px;
+  color: rgb(103, 118, 207);
+}
+.a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: 0.9em;
+  padding: 10px 20px;
+  display: inline;
+}
+.a:hover {
+  color: rgb(0, 17, 255);
+}
+#log {
+  margin-left: 30px;
+  padding: 3px 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(42, 99, 255);
+  border-radius: 20px;
+  transition: 0.7s ease;
+}
+#log:hover {
+  color: rgb(13, 255, 142);
+  transform: scale(1.1);
+}
+
+/* section 1 */
+.corona-19 {
+  padding: 4%;
+}
+
+.f-0 {
+  font-size: 4em;
+  color: rgb(103, 118, 207);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.f {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: -5px;
+}
+.covid {
+  color: chocolate;
+}
+.viurs {
+  color: rgb(103, 118, 207);
+}
+.sp {
+  padding: 5% 0% 0% 1.5%;
+}
+
+#butt {
+  margin-left: 10px;
+  padding: 3px 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(42, 99, 255);
+  border-radius: 20px;
+  transition: 0.7s ease;
+}
+#butt:hover {
+  color: rgb(13, 255, 142);
+  transform: scale(1.1);
+}
+
+.pp {
+  color: rgb(110, 109, 109);
+}
+/* end */
+
+.top {
+  padding-left: 90%;
+}
+
+.top-btn {
+  padding: 3px 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(42, 99, 255);
+  border-radius: 10px;
+  transition: 0.7s ease;
+  z-index: 9999;
+  position: fixed;
+}
+.top-btn:hover {
+  color: rgb(13, 255, 142);
+  transform: scale(1.1);
+}
+
+/* section2 */
+.section2 {
+  padding-left: 20%;
+}
+
+/* end */
+
+/* section3 */
+.same-color {
+  color: rgb(42, 99, 255);
+}
+.light {
+  background-color: white;
+  border-radius: 20px;
+  transition: 0.7s ease;
+}
+.light:hover {
+  transform: scale(1.1);
+}
+/* end */
+
+/* section4 */
+.symptoms {
+  padding: 0% 16%;
+}
+.h4-h4 {
+  padding-top: 70%;
+}
+.imgss {
+  border-radius: 50%;
+}
+
+/* end */
+
+/* section5 */
+
+/* end */
+
+/* section6 */
+.advice {
+  border-radius: 50%;
+}
+.lightt {
+  background-color: white;
+  border-radius: 20px;
+  padding: 1%;
+  transition: 0.7s ease;
+}
+.lightt:hover {
+  transform: scale(1.1);
+}
+/* end */
+
+/* section7 */
+.stilyIcon {
+  color: rgb(45, 207, 126);
+}
+.i-Icon {
+  color: rgb(121, 0, 190);
+}
+.hand {
+  border-radius: 100px;
+}
+.light3 {
+  background-color: white;
+  border-radius: 20px;
+  transition: 0.7s ease;
+}
+.light3:hover {
+  transform: scale(1.1);
+}
+/* end */
+
+/* section8 */
+.grwnnd {
+  background-color: white;
+  border-radius: 20px;
+}
+/* end */
+
+/* section9*/
+.backGrwend {
+  background-color: rgb(36, 36, 240);
+  color: white;
+}
+.gg {
+  background: url(imgs/shape-a.png);
+}
+.light4 {
+  background-color: rgb(32, 0, 212);
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 27%;
+  margin: 1%;
+  padding: 1%;
+}
+/* end */
+
+/* section10*/
+.paDing {
+  padding-top: 20%;
+}
+.imGss {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: red;
+}
+.imGs {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: green;
+}
+/* end */
+
+/* section11 */
+
+.Q-button {
+  height: 8vh;
+  width: 90%;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.979);
+}
+.Q-button:hover {
+  color: rgb(0, 89, 255);
+}
+
+/* end */
+
+/* section11 */
+.im {
+  border-radius: 20px;
+  width: 70%;
+}
+/* end */
+
+/*footer*/
+.grwnd {
+  background-color: rgb(0, 0, 59);
+}
+.grwndd {
+  background-image: url(imgs/shape-a.png);
+}
+
+.icOn {
+  color: rgb(219, 62, 0);
+  font-size: 0.9em;
+}
+.hh2 {
+  color: white;
+}
+.log1 {
+  margin-left: 10px;
+  width: 70%;
+  height: 7vh;
+  padding: 3px 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 30, 201);
+  border-radius: 10px;
+  transition: 0.7s ease;
+}
+.log1:hover {
+  color: rgb(13, 255, 142);
+  transform: scale(1.1);
+}
+.log2 {
+  margin-left: 10px;
+  width: 70%;
+  height: 7vh;
+  padding: 3px 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(68, 96, 255);
+  border-radius: 10px;
+  transition: 0.7s ease;
+}
+.log2:hover {
+  color: rgb(0, 2, 105);
+  transform: scale(1.1);
+}
+.log3 {
+  margin-left: 10px;
+  width: 70%;
+  height: 7vh;
+  padding: 3px 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(228, 8, 63);
+  border-radius: 10px;
+  transition: 0.7s ease;
+}
+.log3:hover {
+  color: rgb(129, 194, 255);
+  transform: scale(1.1);
+}
+.Hr {
+  border-radius: 10px;
+  color: beige;
+}
+.whit {
+  color: white;
+}
+.gray {
+  color: gray;
+}
+/* end */
